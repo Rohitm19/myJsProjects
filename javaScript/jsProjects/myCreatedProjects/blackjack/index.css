@@ -1,0 +1,30 @@
+h1 {
+    color: goldenrod;
+}
+
+body {
+    background-image: url("./table.png");
+    background-size: cover;
+    font-family: -windows-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+#message-el{
+ font-style: italic;
+ color: white;
+}
+
+button{
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px ;
+    margin-top: 2px ;
+}
